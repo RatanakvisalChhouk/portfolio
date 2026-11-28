@@ -42,7 +42,7 @@ export default function Hero() {
             សួស្តី
           </p>
           <h1 className="mt-3 text-3xl font-semibold leading-tight tracking-tight md:text-5xl md:leading-[1.1]">
-            I'm Ratanakvisal, a recent information systems graduate in Phnom Penh.
+            I'm Ratanakvisal, a recent management of information systems graduate in Phnom Penh.
           </h1>
           <p className="mt-6 text-lg text-muted md:text-xl md:leading-relaxed">{profile.tagline}</p>
           <div className="mt-10 flex flex-wrap items-center gap-x-4 gap-y-4">
@@ -80,7 +80,7 @@ export default function Hero() {
                 </svg>
               </span>
               <div className="leading-tight">
-                <p className="text-sm font-semibold md:text-[0.95rem]">B.Sc. Information Systems</p>
+                <p className="text-sm font-semibold md:text-[0.95rem]">B.Sc. Management of Information Systems</p>
                 <p className="text-xs text-muted md:text-sm">Paragon Int'l University, 2026</p>
               </div>
             </div>
